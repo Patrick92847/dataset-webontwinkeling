@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "name": "Submariner",
+    "description": "The Rolex Submariner is a luxury diving watch known for its durability, waterproof construction and iconic design.",
+    "price": 10500,
+    "available": true,
+    "releaseDate": "2020-09-01",
+    "imageUrl": "images/rolexsubmariner.avif",
+    "movement": "Automatic",
+    "features": [
+      "Water resistant",
+      "Date display",
+      "Rotating bezel"
+    ],
+    "brand": {
+      "id": 1,
+      "name": "Rolex",
+      "country": "Switzerland",
+      "luxury": true
+    }
+  },
+  {
+    "id": 2,
+    "name": "Datejust",
+    "description": "The Rolex Datejust is a classic luxury watch designed for everyday use with an elegant and recognizable appearance.",
+    "price": 8500,
+    "available": true,
+    "releaseDate": "2019-03-15",
+    "imageUrl": "images/rolexdatejust.avif",
+    "movement": "Automatic",
+    "features": [
+      "Date display",
+      "Sapphire glass",
+      "Water resistant"
+    ],
+    "brand": {
+      "id": 1,
+      "name": "Rolex",
+      "country": "Switzerland",
+      "luxury": true
+    }
+  },
+  {
+    "id": 3,
+    "name": "Speedmaster Moonwatch",
+    "description": "The Omega Speedmaster Moonwatch is famous for its connection with NASA and the Apollo missions to the Moon.",
+    "price": 7600,
+    "available": true,
+    "releaseDate": "2021-01-05",
+    "imageUrl": "images/omegaspeedmastermoonwatch.jpg",
+    "movement": "Manual",
+    "features": [
+      "Chronograph",
+      "Tachymeter",
+      "Sapphire glass"
+    ],
+    "brand": {
+      "id": 2,
+      "name": "Omega",
+      "country": "Switzerland",
+      "luxury": true
+    }
+  },
+  {
+    "id": 4,
+    "name": "Seamaster Diver 300M",
+    "description": "The Omega Seamaster Diver 300M is a professional diving watch combining modern technology with a sporty luxury design.",
+    "price": 6200,
+    "available": true,
+    "releaseDate": "2018-07-12",
+    "imageUrl": "images/omegaseamasterdiver300M.webp",
+    "movement": "Automatic",
+    "features": [
+      "Water resistant",
+      "Helium escape valve",
+      "Rotating bezel"
+    ],
+    "brand": {
+      "id": 2,
+      "name": "Omega",
+      "country": "Switzerland",
+      "luxury": true
+    }
+  },
+ {
+  "id": 5,
+  "name": "TAG Heuer Carrera",
+  "description": "The TAG Heuer Carrera is a sporty luxury chronograph inspired by motor racing and known for its clean and elegant design.",
+  "price": 4200,
+  "available": true,
+  "releaseDate": "2020-04-15",
+  "imageUrl": "images/tagheuercarrera.jpg",
+  "movement": "Automatic",
+  "features": [
+    "Chronograph",
+    "Sapphire glass",
+    "Water resistant"
+  ],
+  "brand": {
+    "id": 3,
+    "name": "TAG Heuer",
+    "country": "Switzerland",
+    "luxury": true
+  }
+},
+{
+  "id": 6,
+  "name": "TAG Heuer Aquaracer",
+  "description": "The TAG Heuer Aquaracer is a professional diving watch designed for water sports with a robust case and sporty Swiss styling.",
+  "price": 3100,
+  "available": true,
+  "releaseDate": "2021-06-10",
+  "imageUrl": "images/tagheueraquaracer.jpg",
+  "movement": "Automatic",
+  "features": [
+    "Water resistant",
+    "Rotating bezel",
+    "Date display"
+  ],
+  "brand": {
+    "id": 3,
+    "name": "TAG Heuer",
+    "country": "Switzerland",
+    "luxury": true
+  }
+},
+  {
+    "id": 7,
+    "name": "Seiko 5 Sports",
+    "description": "The Seiko 5 Sports is an automatic everyday watch offering a reliable mechanical movement and sporty Japanese design.",
+    "price": 300,
+    "available": true,
+    "releaseDate": "2019-09-10",
+    "imageUrl": "images/seiko5sports.png",
+    "movement": "Automatic",
+    "features": [
+      "Automatic movement",
+      "Day display",
+      "Date display"
+    ],
+    "brand": {
+      "id": 4,
+      "name": "Seiko",
+      "country": "Japan",
+      "luxury": false
+    }
+  },
+  {
+    "id": 8,
+    "name": "Seiko Prospex",
+    "description": "The Seiko Prospex is designed for sports and adventure and provides strong water resistance and reliable performance.",
+    "price": 850,
+    "available": false,
+    "releaseDate": "2022-02-20",
+    "imageUrl": "images/seikoprospex.jpg",
+    "movement": "Automatic",
+    "features": [
+      "Water resistant",
+      "Rotating bezel",
+      "Luminous hands"
+    ],
+    "brand": {
+      "id": 4,
+      "name": "Seiko",
+      "country": "Japan",
+      "luxury": false
+    }
+  },
+  {
+    "id": 9,
+    "name": "PRX Powermatic 80",
+    "description": "The Tissot PRX Powermatic 80 combines a retro inspired design with a modern automatic movement offering a long power reserve.",
+    "price": 775,
+    "available": true,
+    "releaseDate": "2021-03-25",
+    "imageUrl": "images/prxpowermatic80.jpg",
+    "movement": "Automatic",
+    "features": [
+      "80 hour power reserve",
+      "Sapphire glass",
+      "Date display"
+    ],
+    "brand": {
+      "id": 5,
+      "name": "Tissot",
+      "country": "Switzerland",
+      "luxury": false
+    }
+  },
+  {
+    "id": 10,
+    "name": "Tissot Seastar 1000",
+    "description": "The Tissot Seastar 1000 is a sporty diving watch made for underwater activities while maintaining an elegant Swiss design.",
+    "price": 895,
+    "available": false,
+    "releaseDate": "2020-05-14",
+    "imageUrl": "images/tissotseastar1000.webp",
+    "movement": "Quartz",
+    "features": [
+      "Water resistant",
+      "Rotating bezel",
+      "Sapphire glass"
+    ],
+    "brand": {
+      "id": 5,
+      "name": "Tissot",
+      "country": "Switzerland",
+      "luxury": false
+    }
+  }
+]

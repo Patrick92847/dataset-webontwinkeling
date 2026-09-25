@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Rolex",
+    "country": "Switzerland",
+    "founded": 1905,
+    "luxury": true,
+    "logoUrl": "images/rolex.png"
+  },
+  {
+    "id": 2,
+    "name": "Omega",
+    "country": "Switzerland",
+    "founded": 1848,
+    "luxury": true,
+    "logoUrl": "images/omega.png"
+  },
+  {
+    "id": 3,
+    "name": "TAG Heuer",
+    "country": "Switzerland",
+    "founded": 1860,
+    "luxury": true,
+    "logoUrl": "images/tagheuer.png"
+  },
+  {
+    "id": 4,
+    "name": "Seiko",
+    "country": "Japan",
+    "founded": 1881,
+    "luxury": false,
+    "logoUrl": "images/seiko.png"
+  },
+  {
+    "id": 5,
+    "name": "Tissot",
+    "country": "Switzerland",
+    "founded": 1853,
+    "luxury": false,
+    "logoUrl": "images/tissot.png"
+  }
+]
