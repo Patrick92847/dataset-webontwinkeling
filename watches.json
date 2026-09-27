@@ -6,13 +6,9 @@
     "price": 10500,
     "available": true,
     "releaseDate": "2020-09-01",
-    "imageUrl": "images/rolexsubmariner.avif",
+    "imageUrl": "https://raw.githubusercontent.com/Patrick92847/dataset-webontwinkeling/refs/heads/main/images/watchaes/rolexsubmariner.avif",
     "movement": "Automatic",
-    "features": [
-      "Water resistant",
-      "Date display",
-      "Rotating bezel"
-    ],
+    "features": ["Water resistant", "Date display", "Rotating bezel"],
     "brand": {
       "id": 1,
       "name": "Rolex",
@@ -27,13 +23,9 @@
     "price": 8500,
     "available": true,
     "releaseDate": "2019-03-15",
-    "imageUrl": "images/rolexdatejust.avif",
+    "imageUrl": "https://raw.githubusercontent.com/Patrick92847/dataset-webontwinkeling/refs/heads/main/images/watchaes/rolexdatejust.avif",
     "movement": "Automatic",
-    "features": [
-      "Date display",
-      "Sapphire glass",
-      "Water resistant"
-    ],
+    "features": ["Date display", "Sapphire glass", "Water resistant"],
     "brand": {
       "id": 1,
       "name": "Rolex",
@@ -48,13 +40,9 @@
     "price": 7600,
     "available": true,
     "releaseDate": "2021-01-05",
-    "imageUrl": "images/omegaspeedmastermoonwatch.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Patrick92847/dataset-webontwinkeling/refs/heads/main/images/watchaes/omegaseamasterdiver300M.webp",
     "movement": "Manual",
-    "features": [
-      "Chronograph",
-      "Tachymeter",
-      "Sapphire glass"
-    ],
+    "features": ["Chronograph", "Tachymeter", "Sapphire glass"],
     "brand": {
       "id": 2,
       "name": "Omega",
@@ -69,13 +57,9 @@
     "price": 6200,
     "available": true,
     "releaseDate": "2018-07-12",
-    "imageUrl": "images/omegaseamasterdiver300M.webp",
+    "imageUrl": "https://raw.githubusercontent.com/Patrick92847/dataset-webontwinkeling/refs/heads/main/images/watchaes/omegaseamasterdiver300M.webp",
     "movement": "Automatic",
-    "features": [
-      "Water resistant",
-      "Helium escape valve",
-      "Rotating bezel"
-    ],
+    "features": ["Water resistant", "Helium escape valve", "Rotating bezel"],
     "brand": {
       "id": 2,
       "name": "Omega",
@@ -83,48 +67,40 @@
       "luxury": true
     }
   },
- {
-  "id": 5,
-  "name": "TAG Heuer Carrera",
-  "description": "The TAG Heuer Carrera is a sporty luxury chronograph inspired by motor racing and known for its clean and elegant design.",
-  "price": 4200,
-  "available": true,
-  "releaseDate": "2020-04-15",
-  "imageUrl": "images/tagheuercarrera.jpg",
-  "movement": "Automatic",
-  "features": [
-    "Chronograph",
-    "Sapphire glass",
-    "Water resistant"
-  ],
-  "brand": {
-    "id": 3,
-    "name": "TAG Heuer",
-    "country": "Switzerland",
-    "luxury": true
-  }
-},
-{
-  "id": 6,
-  "name": "TAG Heuer Aquaracer",
-  "description": "The TAG Heuer Aquaracer is a professional diving watch designed for water sports with a robust case and sporty Swiss styling.",
-  "price": 3100,
-  "available": true,
-  "releaseDate": "2021-06-10",
-  "imageUrl": "images/tagheueraquaracer.jpg",
-  "movement": "Automatic",
-  "features": [
-    "Water resistant",
-    "Rotating bezel",
-    "Date display"
-  ],
-  "brand": {
-    "id": 3,
-    "name": "TAG Heuer",
-    "country": "Switzerland",
-    "luxury": true
-  }
-},
+  {
+    "id": 5,
+    "name": "TAG Heuer Carrera",
+    "description": "The TAG Heuer Carrera is a sporty luxury chronograph inspired by motor racing and known for its clean and elegant design.",
+    "price": 4200,
+    "available": true,
+    "releaseDate": "2020-04-15",
+    "imageUrl": "https://raw.githubusercontent.com/Patrick92847/dataset-webontwinkeling/refs/heads/main/images/watchaes/tagheueraquaracer.jpg",
+    "movement": "Automatic",
+    "features": ["Chronograph", "Sapphire glass", "Water resistant"],
+    "brand": {
+      "id": 3,
+      "name": "TAG Heuer",
+      "country": "Switzerland",
+      "luxury": true
+    }
+  },
+  {
+    "id": 6,
+    "name": "TAG Heuer Aquaracer",
+    "description": "The TAG Heuer Aquaracer is a professional diving watch designed for water sports with a robust case and sporty Swiss styling.",
+    "price": 3100,
+    "available": true,
+    "releaseDate": "2021-06-10",
+    "imageUrl": "https://raw.githubusercontent.com/Patrick92847/dataset-webontwinkeling/refs/heads/main/images/watchaes/tagheuercarrera.jpg",
+    "movement": "Automatic",
+    "features": ["Water resistant", "Rotating bezel", "Date display"],
+    "brand": {
+      "id": 3,
+      "name": "TAG Heuer",
+      "country": "Switzerland",
+      "luxury": true
+    }
+  },
   {
     "id": 7,
     "name": "Seiko 5 Sports",
@@ -132,13 +108,9 @@
     "price": 300,
     "available": true,
     "releaseDate": "2019-09-10",
-    "imageUrl": "images/seiko5sports.png",
+    "imageUrl": "https://raw.githubusercontent.com/Patrick92847/dataset-webontwinkeling/refs/heads/main/images/watchaes/seiko5sports.png",
     "movement": "Automatic",
-    "features": [
-      "Automatic movement",
-      "Day display",
-      "Date display"
-    ],
+    "features": ["Automatic movement", "Day display", "Date display"],
     "brand": {
       "id": 4,
       "name": "Seiko",
@@ -153,13 +125,9 @@
     "price": 850,
     "available": false,
     "releaseDate": "2022-02-20",
-    "imageUrl": "images/seikoprospex.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Patrick92847/dataset-webontwinkeling/refs/heads/main/images/watchaes/seikoprospex.jpg",
     "movement": "Automatic",
-    "features": [
-      "Water resistant",
-      "Rotating bezel",
-      "Luminous hands"
-    ],
+    "features": ["Water resistant", "Rotating bezel", "Luminous hands"],
     "brand": {
       "id": 4,
       "name": "Seiko",
@@ -174,13 +142,9 @@
     "price": 775,
     "available": true,
     "releaseDate": "2021-03-25",
-    "imageUrl": "images/prxpowermatic80.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Patrick92847/dataset-webontwinkeling/refs/heads/main/images/watchaes/prxpowermatic80.jpg",
     "movement": "Automatic",
-    "features": [
-      "80 hour power reserve",
-      "Sapphire glass",
-      "Date display"
-    ],
+    "features": ["80 hour power reserve", "Sapphire glass", "Date display"],
     "brand": {
       "id": 5,
       "name": "Tissot",
@@ -195,13 +159,9 @@
     "price": 895,
     "available": false,
     "releaseDate": "2020-05-14",
-    "imageUrl": "images/tissotseastar1000.webp",
+    "imageUrl": "https://raw.githubusercontent.com/Patrick92847/dataset-webontwinkeling/refs/heads/main/images/watchaes/tissotseastar1000.webp",
     "movement": "Quartz",
-    "features": [
-      "Water resistant",
-      "Rotating bezel",
-      "Sapphire glass"
-    ],
+    "features": ["Water resistant", "Rotating bezel", "Sapphire glass"],
     "brand": {
       "id": 5,
       "name": "Tissot",

@@ -5,7 +5,7 @@
     "country": "Switzerland",
     "founded": 1905,
     "luxury": true,
-    "logoUrl": "images/rolex.png"
+    "logoUrl": "https://raw.githubusercontent.com/Patrick92847/dataset-webontwinkeling/refs/heads/main/images/brands/rolexlogo.png"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "country": "Switzerland",
     "founded": 1848,
     "luxury": true,
-    "logoUrl": "images/omega.png"
+    "logoUrl": "https://raw.githubusercontent.com/Patrick92847/dataset-webontwinkeling/refs/heads/main/images/brands/omega.jpg"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "country": "Switzerland",
     "founded": 1860,
     "luxury": true,
-    "logoUrl": "images/tagheuer.png"
+    "logoUrl": "https://raw.githubusercontent.com/Patrick92847/dataset-webontwinkeling/refs/heads/main/images/brands/tagheuer.webp"
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "country": "Japan",
     "founded": 1881,
     "luxury": false,
-    "logoUrl": "images/seiko.png"
+    "logoUrl": "https://raw.githubusercontent.com/Patrick92847/dataset-webontwinkeling/refs/heads/main/images/brands/seiko.png"
   },
   {
     "id": 5,
@@ -37,6 +37,6 @@
     "country": "Switzerland",
     "founded": 1853,
     "luxury": false,
-    "logoUrl": "images/tissot.png"
+    "logoUrl": "https://raw.githubusercontent.com/Patrick92847/dataset-webontwinkeling/refs/heads/main/images/brands/tissot.png"
   }
 ]
