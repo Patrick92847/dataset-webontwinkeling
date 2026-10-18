@@ -1,0 +1,29 @@
+{
+  "name": "dataset-webontwinkeling",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Patrick92847/dataset-webontwinkeling.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Patrick92847/dataset-webontwinkeling/issues"
+  },
+  "homepage": "https://github.com/Patrick92847/dataset-webontwinkeling#readme",
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "@types/readline-sync": "^1.4.8",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
